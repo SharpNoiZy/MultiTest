@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fake", "Fake", "{28E9B43D-BDB4-4C8F-A276-C0E2944C1CA9}"
 	ProjectSection(SolutionItems) = preProject
 		TextFile1.txt = TextFile1.txt
+		TextFile2.txt = TextFile2.txt
 	EndProjectSection
 EndProject
 Global
